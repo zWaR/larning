@@ -1,2 +1,2 @@
 # Larning
-Sharing Laravel Homestead
+Sharing Laravel Homestead code
